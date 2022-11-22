@@ -4,18 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47bce29e-a0f8-4d83-9256-4465aa6f5efb" name="Changes" comment="&quot;Hi&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corejava.iml" afterDir="false" />
+    <list default="true" id="47bce29e-a0f8-4d83-9256-4465aa6f5efb" name="Changes" comment="&quot;nov 15&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rajala/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rajala/example/exp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rajala/input/Accept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rajala/input/ArrayExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rajala/input/ScannerExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rajala/string/FirstExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/returnexp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,17 +34,96 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HC2r6EiVlSQbplb1h5B57beMTt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rajala.Demo" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rajala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rajala.Demo" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rajala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rajala.Demo" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rajala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rajala.string.FirstExp" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rajala.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rajala.example.exp1" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rajala.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstExp" />
+        <item itemvalue="Application.Demo (2)" />
+        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.exp1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +140,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667775269056</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Increment decremt operators&quot;">
+      <created>1668141122410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668141122410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;If example&quot;">
+      <created>1668401359538</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668401359538</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;nov 15&quot;">
+      <created>1668487416404</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668487416404</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +177,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Hi&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Hi&quot;" />
+    <MESSAGE value="&quot;Increment decremt operators&quot;" />
+    <MESSAGE value="&quot;If example&quot;" />
+    <MESSAGE value="&quot;nov 15&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;nov 15&quot;" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/corejava$FirstExp.ic" NAME="FirstExp Coverage Results" MODIFIED="1668832976217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.rajala.string.*</FILTER>
+    </SUITE>
   </component>
 </project>
