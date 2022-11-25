@@ -21,11 +21,16 @@ public class Expstatic {
     static int a = 10;
     static int b = 20;
 
+static
+{
 
+    System.out.println("HI, am in static block");
+    System.out.println(A.age);
+    System.out.println(A.display());
+}
 
     public static void main(String[] args) {
         //System.out.println(a);
-        System.out.println(A.age);
-        System.out.println(A.display());
+
     }
 }
