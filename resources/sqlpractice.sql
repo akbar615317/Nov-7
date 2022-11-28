@@ -41,12 +41,19 @@ select *
   show tables;
 
   select * from sales ;
-
+//to get sales desc order
   select * from sales order by Amount desc;
-
+//to get the top 3 sales
   select Amount from (select Amount,row_number()  OVER (order BY Amount desc ) as cu from sales ) as s where cu BETWEEN  1 and 8;
   select Amount from (select Amount,row_number()  OVER (order BY Amount desc ) as cu from sales ) as s where cu=1;
 
+   //truncate to delete all the data from the table
+    truncate table tablename;
 
+    //drop to delete the table
+    drop table tablename;
+
+    //delete to delete the data from the table
+    delete from sales where id=1;
 
 
