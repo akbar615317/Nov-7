@@ -7,6 +7,7 @@ public class DemoAbstract {
 
         ca.hi();
         ca.display();
+        System.out.println("\n x value from abstact class" + ca.x);
 
     }
 
