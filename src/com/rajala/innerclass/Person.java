@@ -1,6 +1,10 @@
 package com.rajala.innerclass;
 
+@FunctionalInterface
 public interface Person {
+   int a=10;
 
-    void walk();
+   int b=20;
+
+  int add(int a, int b);
 }
