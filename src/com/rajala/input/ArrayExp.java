@@ -7,7 +7,7 @@ public class ArrayExp {
 
         System.out.print(hi.hashCode());
 
-        for(int i=0;i<hi.length;i++) {
+        for(int i=0;i<=hi.length;i++) {
             System.out.println(hi[i]);
         }
 
