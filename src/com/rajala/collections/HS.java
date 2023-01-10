@@ -5,16 +5,8 @@ import java.util.*;
 public class HS {
 
     public static void main(String[] args) {
-
-
-
         List<StudentR> set = new ArrayList<StudentR>();
-
-
-     
-
-
-        set.add(new StudentR(1, "Rajala", "python"));
+     set.add(new StudentR(1, "Rajala", "python"));
         set.add(new StudentR(2, "way2classroom", "java2"));
         set.add(new StudentR(3, "techadders", "c"));
 

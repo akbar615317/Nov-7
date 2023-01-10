@@ -49,4 +49,9 @@ public class StudentR implements Comparator<StudentR> {
             return st1.getName().compareTo(st2.getName());
 
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
