@@ -1,6 +1,7 @@
 package com.rajala.java8;
 
 import java.util.List;
+import java.util.Optional;
 
 public class Customer {
 
@@ -37,8 +38,8 @@ public class Customer {
         return id;
     }
 
-    public String getName() {
-        return name;
+    public Optional<String> getName() {
+        return Optional.ofNullable(name);
     }
 
     public String getEmail() {
